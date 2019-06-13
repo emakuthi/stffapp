@@ -1,4 +1,7 @@
+
 ## Project Name
-          FAQ
-  ## Authors
-            [Naisenya Mungai] 
+           FAQ
+
+## Author
+            [Naisenya Mungai]
+            [Kimosop Chepkoit]
